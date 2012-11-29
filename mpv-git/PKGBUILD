@@ -17,7 +17,7 @@ options=(!emptydirs)
 install=mpv.install
 source=('mpv.install' 'mpv.desktop')
 md5sums=('cbc234e5e789e30c624741173992a225'
-        '685e5594c2a4a0f40d3bb1e781fa39d9')
+        'afa04e3bdb3ef16b78804760c63a3d9a')
 
 _gitroot="https://github.com/mpv-player/mpv"
 _gitname="mpv"
